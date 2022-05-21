@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on projects for the web and desktop using React, Electron, TypeScript, C++, and more.
-- 🌱 I’m currently learning AI/Machine Learning, UI design and full-stack app development.
+- 🔭 I’m currenly working on C++ audio plugin development with JUCE, and full-stack web development with React, Python, SQL, Java and more.  
 <!--
 **rosshoyt/rosshoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
